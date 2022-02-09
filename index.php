@@ -12,6 +12,7 @@
   </head>
   <body>
      <header>
+
         
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Fifth navbar example">
             <div class="container-fluid">
@@ -46,10 +47,85 @@
                 </div>
             </div>
         </nav>
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/paysage1.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                     <img src="img/paysage3.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="img/paysage3.jpg">
+                    <img src="img/paysage2.jpg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+
      </header>
 
+        <h1 class='display-4 text-center my-5'>GitProjet</h1>
+        <main>
+            <div class="container">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non nobis reprehenderit in voluptatem. At, deleniti nemo quasi consequatur quibusdam possimus cupiditate aliquid molestiae! Possimus sint veniam, eligendi recusandae quos beatae.
+                Tempore quam amet praesentium numquam vel repellat, nisi, voluptas fugit illum impedit provident fugiat pariatur itaque iusto, rerum earum officiis mollitia molestias quidem iure illo! Aut nulla minus aperiam vero.
+                Maiores eveniet veniam est eum nam tempore sint odit totam iusto vitae sed quo quos, id obcaecati error consectetur distinctio. Saepe, voluptatum porro quaerat enim cupiditate quos mollitia inventore sint.
+                Assumenda ex nulla totam autem, nesciunt voluptatum eos rerum id debitis alias, ratione recusandae, maiores quidem obcaecati iure hic inventore. Dolorum, iusto laudantium accusamus saepe placeat totam cumque eos molestias.
+                Assumenda laboriosam molestias veniam ullam sint aliquam maiores facere animi accusantium? Accusamus rerum ea qui pariatur, mollitia omnis. Consequatur quae vel, rem placeat suscipit asperiores nisi expedita saepe possimus tenetur?
+                Consequatur qui assumenda earum nisi labore nesciunt praesentium, quos odit pariatur unde culpa itaque ex excepturi quasi quibusdam perferendis dicta placeat aliquam. Sed quis voluptas blanditiis, veniam vitae facere natus?
+                Voluptatibus reprehenderit illum officia commodi vel molestiae ipsa tenetur, aspernatur nisi! Debitis, delectus. Blanditiis dolores, nihil aperiam dolor at quod sit veritatis dolore molestias harum quibusdam tenetur nisi ad eaque.
+                Dolorem, error harum sit aliquam autem delectus! Voluptas cumque laudantium distinctio delectus fugiat perspiciatis debitis expedita alias atque illum. Cumque perspiciatis blanditiis omnis minus! Deserunt, reiciendis. Minima qui alias similique.
+                Esse, aut autem laudantium nobis eos minima, rem non tempore, repudiandae tempora modi voluptatum dignissimos? Deserunt perspiciatis ex dolorum veniam? Alias, nihil dolorum quibusdam ad perferendis error at dignissimos a!
+                Quae vel reprehenderit animi eaque, quibusdam hic laudantium odit quaerat illum iure, repellat temporibus similique saepe ipsum obcaecati nostrum velit unde earum ut architecto ipsam numquam officiis accusamus! Recusandae, deserunt?</p>
 
-    <h1>GitProjet</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non nobis reprehenderit in voluptatem. At, deleniti nemo quasi consequatur quibusdam possimus cupiditate aliquid molestiae! Possimus sint veniam, eligendi recusandae quos beatae.
+                Tempore quam amet praesentium numquam vel repellat, nisi, voluptas fugit illum impedit provident fugiat pariatur itaque iusto, rerum earum officiis mollitia molestias quidem iure illo! Aut nulla minus aperiam vero.
+                Maiores eveniet veniam est eum nam tempore sint odit totam iusto vitae sed quo quos, id obcaecati error consectetur distinctio. Saepe, voluptatum porro quaerat enim cupiditate quos mollitia inventore sint.
+                Assumenda ex nulla totam autem, nesciunt voluptatum eos rerum id debitis alias, ratione recusandae, maiores quidem obcaecati iure hic inventore. Dolorum, iusto laudantium accusamus saepe placeat totam cumque eos molestias.
+                Assumenda laboriosam molestias veniam ullam sint aliquam maiores facere animi accusantium? Accusamus rerum ea qui pariatur, mollitia omnis. Consequatur quae vel, rem placeat suscipit asperiores nisi expedita saepe possimus tenetur?
+                Consequatur qui assumenda earum nisi labore nesciunt praesentium, quos odit pariatur unde culpa itaque ex excepturi quasi quibusdam perferendis dicta placeat aliquam. Sed quis voluptas blanditiis, veniam vitae facere natus?
+                Voluptatibus reprehenderit illum officia commodi vel molestiae ipsa tenetur, aspernatur nisi! Debitis, delectus. Blanditiis dolores, nihil aperiam dolor at quod sit veritatis dolore molestias harum quibusdam tenetur nisi ad eaque.
+                Dolorem, error harum sit aliquam autem delectus! Voluptas cumque laudantium distinctio delectus fugiat perspiciatis debitis expedita alias atque illum. Cumque perspiciatis blanditiis omnis minus! Deserunt, reiciendis. Minima qui alias similique.
+                Esse, aut autem laudantium nobis eos minima, rem non tempore, repudiandae tempora modi voluptatum dignissimos? Deserunt perspiciatis ex dolorum veniam? Alias, nihil dolorum quibusdam ad perferendis error at dignissimos a!
+                Quae vel reprehenderit animi eaque, quibusdam hic laudantium odit quaerat illum iure, repellat temporibus similique saepe ipsum obcaecati nostrum velit unde earum ut architecto ipsam numquam officiis accusamus! Recusandae, deserunt?</p>
+                
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non nobis reprehenderit in voluptatem. At, deleniti nemo quasi consequatur quibusdam possimus cupiditate aliquid molestiae! Possimus sint veniam, eligendi recusandae quos beatae.
+                Tempore quam amet praesentium numquam vel repellat, nisi, voluptas fugit illum impedit provident fugiat pariatur itaque iusto, rerum earum officiis mollitia molestias quidem iure illo! Aut nulla minus aperiam vero.
+                Maiores eveniet veniam est eum nam tempore sint odit totam iusto vitae sed quo quos, id obcaecati error consectetur distinctio. Saepe, voluptatum porro quaerat enim cupiditate quos mollitia inventore sint.
+                Assumenda ex nulla totam autem, nesciunt voluptatum eos rerum id debitis alias, ratione recusandae, maiores quidem obcaecati iure hic inventore. Dolorum, iusto laudantium accusamus saepe placeat totam cumque eos molestias.
+                Assumenda laboriosam molestias veniam ullam sint aliquam maiores facere animi accusantium? Accusamus rerum ea qui pariatur, mollitia omnis. Consequatur quae vel, rem placeat suscipit asperiores nisi expedita saepe possimus tenetur?
+                Consequatur qui assumenda earum nisi labore nesciunt praesentium, quos odit pariatur unde culpa itaque ex excepturi quasi quibusdam perferendis dicta placeat aliquam. Sed quis voluptas blanditiis, veniam vitae facere natus?
+                Voluptatibus reprehenderit illum officia commodi vel molestiae ipsa tenetur, aspernatur nisi! Debitis, delectus. Blanditiis dolores, nihil aperiam dolor at quod sit veritatis dolore molestias harum quibusdam tenetur nisi ad eaque.
+                Dolorem, error harum sit aliquam autem delectus! Voluptas cumque laudantium distinctio delectus fugiat perspiciatis debitis expedita alias atque illum. Cumque perspiciatis blanditiis omnis minus! Deserunt, reiciendis. Minima qui alias similique.
+                Esse, aut autem laudantium nobis eos minima, rem non tempore, repudiandae tempora modi voluptatum dignissimos? Deserunt perspiciatis ex dolorum veniam? Alias, nihil dolorum quibusdam ad perferendis error at dignissimos a!
+                Quae vel reprehenderit animi eaque, quibusdam hic laudantium odit quaerat illum iure, repellat temporibus similique saepe ipsum obcaecati nostrum velit unde earum ut architecto ipsam numquam officiis accusamus! Recusandae, deserunt?</p>
+                
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non nobis reprehenderit in voluptatem. At, deleniti nemo quasi consequatur quibusdam possimus cupiditate aliquid molestiae! Possimus sint veniam, eligendi recusandae quos beatae.
+                Tempore quam amet praesentium numquam vel repellat, nisi, voluptas fugit illum impedit provident fugiat pariatur itaque iusto, rerum earum officiis mollitia molestias quidem iure illo! Aut nulla minus aperiam vero.
+                Maiores eveniet veniam est eum nam tempore sint odit totam iusto vitae sed quo quos, id obcaecati error consectetur distinctio. Saepe, voluptatum porro quaerat enim cupiditate quos mollitia inventore sint.
+                Assumenda ex nulla totam autem, nesciunt voluptatum eos rerum id debitis alias, ratione recusandae, maiores quidem obcaecati iure hic inventore. Dolorum, iusto laudantium accusamus saepe placeat totam cumque eos molestias.
+                Assumenda laboriosam molestias veniam ullam sint aliquam maiores facere animi accusantium? Accusamus rerum ea qui pariatur, mollitia omnis. Consequatur quae vel, rem placeat suscipit asperiores nisi expedita saepe possimus tenetur?
+                Consequatur qui assumenda earum nisi labore nesciunt praesentium, quos odit pariatur unde culpa itaque ex excepturi quasi quibusdam perferendis dicta placeat aliquam. Sed quis voluptas blanditiis, veniam vitae facere natus?
+                Voluptatibus reprehenderit illum officia commodi vel molestiae ipsa tenetur, aspernatur nisi! Debitis, delectus. Blanditiis dolores, nihil aperiam dolor at quod sit veritatis dolore molestias harum quibusdam tenetur nisi ad eaque.
+                Dolorem, error harum sit aliquam autem delectus! Voluptas cumque laudantium distinctio delectus fugiat perspiciatis debitis expedita alias atque illum. Cumque perspiciatis blanditiis omnis minus! Deserunt, reiciendis. Minima qui alias similique.
+                Esse, aut autem laudantium nobis eos minima, rem non tempore, repudiandae tempora modi voluptatum dignissimos? Deserunt perspiciatis ex dolorum veniam? Alias, nihil dolorum quibusdam ad perferendis error at dignissimos a!
+                Quae vel reprehenderit animi eaque, quibusdam hic laudantium odit quaerat illum iure, repellat temporibus similique saepe ipsum obcaecati nostrum velit unde earum ut architecto ipsam numquam officiis accusamus! Recusandae, deserunt?</p>
+            </div>
+        </main>
+        <footer class="gb-dark text-center text-white py-3">
+        1COPY. 2022 - GL - GitProjet - Tous droits résérvès
+        </footer>
+
+
+    
 
    
     
