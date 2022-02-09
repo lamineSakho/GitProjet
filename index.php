@@ -53,10 +53,10 @@
                     <img src="img/paysage1.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                     <img src="img/paysage3.jpg" class="d-block w-100" alt="...">
+                     <img src="img/paysage2.jpg" class="d-block w-100" alt="...">
                 </div>
-                <div class="img/paysage3.jpg">
-                    <img src="img/paysage2.jpg" class="d-block w-100" alt="...">
+                <div class="">
+                    <img src="img/paysage3.jpg" class="d-block w-100" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -119,16 +119,7 @@
                 Esse, aut autem laudantium nobis eos minima, rem non tempore, repudiandae tempora modi voluptatum dignissimos? Deserunt perspiciatis ex dolorum veniam? Alias, nihil dolorum quibusdam ad perferendis error at dignissimos a!
                 Quae vel reprehenderit animi eaque, quibusdam hic laudantium odit quaerat illum iure, repellat temporibus similique saepe ipsum obcaecati nostrum velit unde earum ut architecto ipsam numquam officiis accusamus! Recusandae, deserunt?</p>
             </div>
-        </main>
-        <footer class="gb-dark text-center text-white py-3">
-        1COPY. 2022 - GL - GitProjet - Tous droits résérvès
-        </footer>
-
-
-    
-
-   
-    
+            
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
